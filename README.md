@@ -62,11 +62,11 @@ Este repositório foi criado para te guiar pelos conceitos básicos do C# com fo
 - 📂 Manipulação de arquivos
 - 🐞 Debugging e tratamento de erros
 
+---
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Vamos lá!" width="80%" />
 </p>
 
----
 
 ## ⚙️ **Pré-requisitos**
 
