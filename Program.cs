@@ -28,12 +28,13 @@ namespace CursoCSharp
                 {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
                 {"Operadores Ternário - Fundamentos", OperadorTernario.Executar},
 
-                //Estruturas de Controle
-                {"IF - Estruturas de Controle", EstruturaIf.Executar},
-                {"IF/ELSE - Estruturas de Controle", EstruturaIfElse.Executar},
-                {"IF/ELSEIF - Estruturas de Controle", EstruturaIfElseIf.Executar},
-                {"Switch - Estruturas de Controle", EstruturaSwitch.Executar},
-                {"While - Estruturas de Controle", EstruturaWhile.Executar},
+                // Estruturas de Controle
+                {"Estrutura If - Estruturas de Controle", EstruturaIf. Executar},
+                {"Estrutura If/Else - Estruturas de Controle", EstruturaIfElse. Executar},
+                {"Estrutura If/Else/If - Estruturas de Controle", EstruturaIfElseIf.Executar},
+                {"Estrutura Switch - Estruturas de Controle", EstruturaSwitch. Executar},
+                {"Estrutura While - Estruturas de Controle", EstruturaWhile. Executar},
+                {"Estrutura For - Estruturas de Controle", EstruturaFor. Executar},
             });
 
             central.SelecionarEExecutar();
